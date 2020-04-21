@@ -1,3 +1,2 @@
-# Leaflet Challenge
-
-### Authored by _Zachary J. McCann_
+#### Front-end visualization built incorperating the Leaflet library
+#### Developed using JavaScript, HTML, and CSS
